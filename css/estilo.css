@@ -1,0 +1,55 @@
+body
+{
+	background-color: white;
+	font-family: Tahoma;
+}
+
+li
+{
+	list-style: none;
+}
+
+.cuadrado
+{
+	width: 60px;
+	height: 60px;
+	background: red;
+	display: inline-block;
+}
+
+#contenedor
+{
+	display: inline-block;
+}
+
+#texto
+{	
+	display: inline-block;
+	font-size: 6em;
+	vertical-align: top;
+	font-family: Tahoma;
+	font-weight: bold;
+	margin-top: 10px;
+	
+
+}
+
+#cuadrado_1
+{
+	background: red;
+}
+
+#cuadrado_2
+{
+	background: green;
+}
+
+#cuadrado_3
+{
+	background: blue;
+}
+
+#cuadrado_4
+{
+	background: yellow;
+}
